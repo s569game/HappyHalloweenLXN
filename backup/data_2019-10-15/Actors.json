@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ハロルド","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"テレーゼ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"マーシャ","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ルキウス","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"id5_norton001","classId":6,"equips":[6,0,7,3,6],"faceIndex":0,"faceName":"People_id5_norton002b","traits":[{"code":51,"dataId":11,"value":1},{"code":52,"dataId":4,"value":1},{"code":53,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"ノートン・キャンベル","nickname":"探鉱者","note":"","profile":"恐ろしい落盤事故から奇跡的に生存したキャンベルは、\nそれまで以上に暗く寡黙となった。"},
+{"id":7,"battlerName":"","characterIndex":7,"characterName":"id5_tantei001c","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"オルフェウス","nickname":"探偵","note":"","profile":"記憶喪失の探偵。元小説家。\n一通の依頼をきっかけに荘園を訪れることになった。"},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"id5_isoppu002","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"イソップ・カール","nickname":"納棺師","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"イライ・クラーク","nickname":"占い師","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"ピアソン・クリーチャー","nickname":"泥棒","note":"","profile":""}
+]
